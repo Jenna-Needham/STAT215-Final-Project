@@ -1,4 +1,4 @@
-# Megadeth-Final-Project
+# STAT215-Final-Project
 ## **Instructions**
 To access and utilize the script, open the "final_project_script.R" file, which contains the code for my findings. To access the dataset, open the "STA215-NEEDHAM.R - Sheet (4).csv" file. 
 
