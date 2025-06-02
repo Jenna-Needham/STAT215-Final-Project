@@ -1,6 +1,6 @@
 # STAT215-Final-Project
 ## **Instructions**
-To access and utilize the script, open the "final_project_script.R" file, which contains the code for my findings. To access the dataset, open the "STA215-NEEDHAM.R - Sheet (4).csv" file. 
+To access and utilize the script, open the "final_project_script.R" file, which contains the code for my findings. To access the dataset, open the "STA215-NEEDHAM.R.csv" file. 
 
 ## **Data**
 The data used for the analyses was gathering all of the finalized original songs from thrash-metal band Megadeth (no covers, remixes, or demos). The question being asked was if Megadeth had as many political songs as many fans claim, and if those songs garnered more listeners, were more intense, or had similar narrative tones. Each unit of analysis was one song and 183 observations were collected. The type of sampling strategy that was used was convenience sampling.
