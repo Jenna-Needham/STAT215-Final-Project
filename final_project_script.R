@@ -1,8 +1,8 @@
 ## Project:  STA 215, Fall 2023, Final Project
-# Located:   Kline TCNJ Google Drive
-# File Name: template
-# Date:      2023_11_16
-# Who:       Zachary D. Kline
+# Located:   Needham TCNJ Google Drive
+# File Name: STA215 Final Project
+# Date:      2023_12_12
+# Who:       Jenna Needham
 
 
 
